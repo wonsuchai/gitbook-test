@@ -1,0 +1,6 @@
+
+{
+"root": "./docs",
+"plugins": ["expandable-chapters","youtube","hints","codetabs"],
+"title": "SPM Minions Team Handbook"
+}
