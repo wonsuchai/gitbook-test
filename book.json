@@ -1,6 +1,6 @@
 
 {
 "root": "./docs",
-"plugins": ["expandable-chapters","youtube","hints"],
+"plugins": ["expandable-chapters","youtube","hints","glossary-tooltip"],
 "title": "Questo e' il  titolo del..."
 }
